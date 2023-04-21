@@ -1,0 +1,15 @@
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\bin\Debug\net7.0\Staging.exe
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\bin\Debug\net7.0\Staging.deps.json
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\bin\Debug\net7.0\Staging.runtimeconfig.json
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\bin\Debug\net7.0\Staging.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\bin\Debug\net7.0\Staging.pdb
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.csproj.AssemblyReference.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.AssemblyInfoInputs.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.AssemblyInfo.cs
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.csproj.CoreCompileInputs.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\refint\Staging.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.pdb
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\Staging.genruntimeconfig.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\obj\Debug\net7.0\ref\Staging.dll
